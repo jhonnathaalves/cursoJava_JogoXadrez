@@ -1,0 +1,96 @@
+[33mcommit ef10a9529e27dedb9be28bc961c95b4ac6c3be75[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7f872d3 91b75d2
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Wed Jan 23 16:41:12 2019 -0200
+
+    Merge branch 'master' of https://github.com/jhonnathaalves/cursoJava_JogoXadrez
+
+[33mcommit 7f872d356d2e672ab7dbf67ebfc6c23bd25a4d0e[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Wed Jan 23 16:39:41 2019 -0200
+
+    Implementing possible moves of King
+
+[33mcommit 91b75d2e26126c6182bd0bd8d3d24b49c05b81f0[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Wed Jan 23 16:18:19 2019 -0200
+
+    Printing possible moves
+
+[33mcommit 2e880b4d61eeafb6afe876d8bd3644d8f3792469[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Wed Jan 23 16:00:31 2019 -0200
+
+    Implementing possible moves of Rook
+
+[33mcommit 5fbab65d4d4318a2200eeab81a22a8da2b214973[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 18:16:22 2019 -0200
+
+    Possible moves of a piece
+
+[33mcommit 1fc0ceac873bc498b6eafc2098836c6923aca210[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 16:23:46 2019 -0200
+
+    Handling exceptions and clearing screen
+
+[33mcommit a27b49e5618a83bc507aa925b63a36ae17c35756[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 16:05:45 2019 -0200
+
+    Moving pieces
+
+[33mcommit 59d5e888f6ad5f36ca13c9f4afe3cdb055943864[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 15:36:40 2019 -0200
+
+    Little improvement in board printing
+
+[33mcommit d5daf1c01728fe240f0e9362f5d5055e01ba9c17[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 15:18:01 2019 -0200
+
+    ChessException and ChessPosition
+
+[33mcommit 99f9f0da750dbc9cbea3dfbaa2a2ce03329ccf51[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 14:51:40 2019 -0200
+
+    BoardException and defensive programming
+
+[33mcommit cdbd698e23295135ec1536d1449d2f97fd993956[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 13:42:39 2019 -0200
+
+    Placing pieces on the board
+
+[33mcommit a36785a6ff0deec2d2014ca65e0cfc8ea32eb9bd[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 12:08:37 2019 -0200
+
+    Chess layer and printing the board
+
+[33mcommit caa0e9fff7c5e6bd1b2313978a8fcf705ecdef14[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 09:43:09 2019 -0200
+
+    Starting to implement Board and Piece
+
+[33mcommit 3d699050f9aa2d61b0429517a826bb3536489f61[m
+Author: jhonnathaalves <jhonnatha16011987@yahoo.com.br>
+Date:   Mon Jan 21 09:27:29 2019 -0200
+
+    First class: Position
+
+[33mcommit f5b217ce80526cab867febb8fe8c5b26cd0d4019[m
+Author: Jhonnatha Alves <jhonnatha16011987@yahoo.com.br>
+Date:   Sun Jan 20 13:27:17 2019 -0200
+
+    Projeto criado
+
+[33mcommit 1172a6f54fb6d8efb075ccbb6a8776ac7d01d5ae[m
+Author: Jhonnatha <44612322+jhonnathaalves@users.noreply.github.com>
+Date:   Sun Jan 20 13:16:14 2019 -0200
+
+    Initial commit
